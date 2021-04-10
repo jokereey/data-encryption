@@ -21,5 +21,5 @@ To run this project:
  
 ## Presentation
 
-![GUI](../master/Screens/Screen.png)
+![GUI](../master/Screens/screen.png)
 
